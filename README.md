@@ -1,2 +1,1 @@
-# JS-solutions
-I will post some of my Javascript solutions here
+Each folder contains a Javascript solution to a specific task
