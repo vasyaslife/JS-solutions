@@ -1,4 +1,4 @@
-window.addEventListener('DOMContentLoaded', function() {
+window.addEventListener('DOMContentLoaded', () => {
 
     let timerElem = document.getElementById('timer'),
         hours = timerElem.querySelector('.hours'),

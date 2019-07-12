@@ -1,0 +1,30 @@
+.info-header {
+    display: flex;
+    background: #ff8232;
+    width: 400px;
+    justify-content: space-between;
+    padding: 10px 10px;
+    border-radius: 10px;
+}
+
+.info-header-tab:hover {
+    color: #fff;
+    cursor: pointer;
+}
+
+.info-tabcontent {
+    margin-top: 20px;
+    display: flex;
+    background: #ff8232;
+    width: 400px;
+    justify-content: center;
+    padding: 10px 10px;
+}
+
+.show {
+    display: flex;
+}
+
+.hide {
+    display: none;
+}
