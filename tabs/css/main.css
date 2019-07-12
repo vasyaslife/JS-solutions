@@ -7,14 +7,13 @@
     border-radius: 10px;
 }
 
-.info-header-tab:hover {
+.info-header__tab:hover {
     color: #fff;
     cursor: pointer;
 }
 
-.info-tabcontent {
+.info__tabcontent {
     margin-top: 20px;
-    display: flex;
     background: #ff8232;
     width: 400px;
     justify-content: center;

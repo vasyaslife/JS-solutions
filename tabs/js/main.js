@@ -1,8 +1,8 @@
 window.addEventListener('DOMContentLoaded', () => {
     let info = document.querySelector('.info-header'), 
-        tab = document.querySelectorAll('.info-header-tab'),
-        tabName = 'info-header-tab',
-        tabContent = document.querySelectorAll('.info-tabcontent');
+        tab = document.querySelectorAll('.info-header__tab'),
+        tabName = 'info-header__tab',
+        tabContent = document.querySelectorAll('.info__tabcontent');
 
     tabs(info, tab, tabName, tabContent);
     function tabs(info, tab, tabName, tabContent) {
